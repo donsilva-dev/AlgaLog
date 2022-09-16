@@ -3716,3 +3716,33 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-16 20:28:04.956
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-16 20:28:04.992
+!MESSAGE classpath=98 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-16 20:28:05.083
+!MESSAGE buffering callback sts4.classpath.dDeUsFHB algalog-api false 98
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-16 20:28:05.084
+!MESSAGE executing callback sts4.classpath.dDeUsFHB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-16 20:28:05.319
+!MESSAGE executing callback sts4.classpath.dDeUsFHB SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-16 20:28:08.630
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-16 20:28:08.638
+!MESSAGE classpath=98 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-16 20:28:08.644
+!MESSAGE buffering callback sts4.classpath.dDeUsFHB algalog-api false 98
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-16 20:28:08.645
+!MESSAGE executing callback sts4.classpath.dDeUsFHB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-16 20:28:08.802
+!MESSAGE executing callback sts4.classpath.dDeUsFHB SUCCESS [done]
