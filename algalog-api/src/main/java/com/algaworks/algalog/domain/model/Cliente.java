@@ -17,26 +17,23 @@ import lombok.Setter;
 @Setter
 @Entity
 
-
 public class Cliente {
 	@EqualsAndHashCode.Include
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
-	
+
 	@NotBlank
 	@Size(max = 60)
 	private String nome;
-	
+
 	@NotBlank
 	@Email
 	@Size(max = 255)
 	private String email;
-	
+
 	@NotBlank
 	@Size(max = 20)
 	private String telefone;
-	
-	
 
 }
