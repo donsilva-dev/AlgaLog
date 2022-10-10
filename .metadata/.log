@@ -5187,3 +5187,114 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 20:46:53.746
 !MESSAGE executing callback sts4.classpath.uqVPsJDg SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:21:53.940
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:21:53.952
+!MESSAGE classpath=99 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:21:53.958
+!MESSAGE buffering callback sts4.classpath.uqVPsJDg algalog-api false 99
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:21:53.959
+!MESSAGE executing callback sts4.classpath.uqVPsJDg 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:21:53.995
+!MESSAGE executing callback sts4.classpath.uqVPsJDg SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:21:58.431
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:21:58.445
+!MESSAGE classpath=99 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:21:58.452
+!MESSAGE buffering callback sts4.classpath.uqVPsJDg algalog-api false 99
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:21:58.453
+!MESSAGE executing callback sts4.classpath.uqVPsJDg 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:21:58.497
+!MESSAGE executing callback sts4.classpath.uqVPsJDg SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:22:43.818
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:22:43.849
+!MESSAGE classpath=99 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:22:43.856
+!MESSAGE buffering callback sts4.classpath.uqVPsJDg algalog-api false 99
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:22:43.857
+!MESSAGE executing callback sts4.classpath.uqVPsJDg 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-02 21:22:44.148
+!MESSAGE executing callback sts4.classpath.uqVPsJDg SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:35.848
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.uqVPsJDg
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:35.849
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.uqVPsJDg
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:35.852
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:35.853
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.uqVPsJDg => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:44.108
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:44.109
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7fa7d165[org.springframework.tooling.boot.ls:1.30.0.202201310805(id=564)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:44.110
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:53.570
+!MESSAGE Boot LS startup time from start to initialized: 9458ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:53.797
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hTCblWdDisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:53.798
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:53.799
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:53.800
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:53.866
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:53.867
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hTCblWdD => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:53.912
+!MESSAGE classpath=99 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:53.919
+!MESSAGE buffering callback sts4.classpath.hTCblWdD algalog-api false 99
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:53.920
+!MESSAGE executing callback sts4.classpath.hTCblWdD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:17:54.627
+!MESSAGE executing callback sts4.classpath.hTCblWdD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:42:24.912
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hTCblWdD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:42:24.913
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.hTCblWdD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:42:24.914
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-10-09 21:42:24.915
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hTCblWdD => OK
